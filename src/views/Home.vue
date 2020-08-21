@@ -3,7 +3,7 @@
         <a-layout class="home">
             <a-layout-sider>
                 <h1 class="logo">
-                    衣联网
+                    后台
                 </h1>
                 <LeftMenu />
             </a-layout-sider>
